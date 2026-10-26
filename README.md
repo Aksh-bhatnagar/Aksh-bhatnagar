@@ -1,24 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:071A2C,45:063B5A,100:00D9FF&text=AKSH%20BHATNAGAR&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=APPLIED%20AI%20%E2%80%A2%20SOFTWARE%20ENGINEERING&descAlignY=58&descSize=14&animation=fadeIn" width="100%" alt="Aksh Bhatnagar — Applied AI and Software Engineering" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:071A2C,45:063B5A,100:00D9FF&text=AKSH%20BHATNAGAR&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=AI%20ENGINEERING%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20FULL-STACK&descAlignY=58&descSize=14&animation=fadeIn" width="100%" alt="Aksh Bhatnagar — AI Engineering, Software, Full-Stack" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1100&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+products;Voice+AI+%7C+LLMs+%7C+Full-Stack;From+working+models+to+usable+software" alt="Building AI-powered products: voice AI, LLMs, and full-stack software" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1100&color=00D9FF&center=true&vCenter=true&width=650&lines=Generative+AI+Engineer;Software+Engineer;Full-Stack+Developer;Building+AI+that+solves+real+problems" alt="Generative AI Engineer | Software Engineer | Full-Stack Developer" />
 
-**CSE & Artificial Intelligence Undergraduate · Medicaps University, Indore · Class of 2027**
+**CSE & Artificial Intelligence Undergraduate · Medicaps University, Indore**
 
-**Seeking AI/ML Engineering and Software Engineering internship opportunities**
-
-[LinkedIn](https://www.linkedin.com/in/aksh-bhatnagar/) · [GitHub Repositories](https://github.com/Aksh-bhatnagar?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00D9FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aksh-bhatnagar/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositories-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/Aksh-bhatnagar?tab=repositories)
+![Profile views](https://komarev.com/ghpvc/?username=Aksh-bhatnagar&style=flat-square&color=00D9FF&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## About
+## ◈ What I Build
 
-I build **AI-powered applications and the software around them**—from speech and LLM workflows to APIs and full-stack products. I’m especially interested in turning models into useful, testable systems rather than stopping at a prototype.
+I work at the intersection of **AI systems and software engineering**: voice-first applications, LLM-powered workflows, machine-learning features, and full-stack products. I care about not just getting a model to work, but connecting it to a usable product and evaluating its behavior.
 
-## Selected Projects
+<div align="center">
+
+| ◉ GENERATIVE AI | ◉ SPEECH AI | ◉ SOFTWARE ENGINEERING |
+|:---:|:---:|:---:|
+| LLMs · RAG · Evaluation | STT · TTS · Voice UX | APIs · Full-stack · Integration |
+
+</div>
+
+## ◈ Featured Work
 
 <div align="center">
 
@@ -26,73 +34,91 @@ I build **AI-powered applications and the software around them**—from speech a
 <tr>
 <td width="50%" valign="top">
 
-<h3>01 · Golden Minutes</h3>
+<h3>01 / Golden Minutes</h3>
 
-**Voice-first cyber-fraud reporting**
+<strong>Voice AI for cyber-fraud reporting</strong>
 
-A multilingual English, Hindi, and Hinglish assistant that gathers incident details conversationally and generates a structured PDF report.
+A multilingual assistant that collects incident details conversationally in English, Hindi, and Hinglish, then generates a structured PDF report.
 
-- **96.7% field accuracy** (58/60) across six synthetic scenarios
-- Gnani speech APIs, Groq, FastAPI; source code is private
+- <strong>96.7% field accuracy</strong> — 58/60 fields across six synthetic scenarios
+- Speech-to-text, text-to-speech, LLM dialogue, and interruption handling
 
-<a href="https://github.com/Aksh-bhatnagar/golden-minutes-readme-only">Project overview ↗</a>
+<sub>Python · FastAPI · Groq · Gnani STT/TTS</sub>
+
+<br/>
+
+<a href="https://github.com/Aksh-bhatnagar/golden-minutes-readme-only">↗ Project overview</a> · <em>Source code private</em>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>02 · Interruptible Voice Assistant</h3>
+<h3>02 / Interruptible Voice Assistant</h3>
 
-**Real-time voice AI with barge-in**
+<strong>Real-time conversational AI with barge-in</strong>
 
-A voice assistant built to handle user interruptions, with speech recognition, retrieval-augmented generation, and cancellable processing.
+A voice assistant designed to let users interrupt spoken responses, with cancellable processing and retrieval-augmented generation.
 
-<sub>Silero VAD · Whisper · RAG · FastAPI</sub>
+- Voice activity detection and speech recognition
+- Semantic retrieval and asynchronous cancellation
 
-<a href="https://github.com/Aksh-bhatnagar/voice-interrupt-assistant">Source code ↗</a>
+<sub>Python · FastAPI · React · Silero VAD · Whisper · RAG</sub>
+
+<br/>
+
+<a href="https://github.com/Aksh-bhatnagar/voice-interrupt-assistant">↗ Explore repository</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>03 · SpeechTrust</h3>
+<h3>03 / SpeechTrust</h3>
 
-**AI-assisted speech assessment**
+<strong>AI-assisted speech assessment</strong>
 
-Evaluates spoken answers using acoustic features and semantic relevance, with a full-stack question bank and authentication.
+Analyzes spoken answers using acoustic features and semantic relevance to produce confidence-oriented feedback.
+
+- Speech characteristics including fluency, pace, pauses, pitch, and clarity
+- Full-stack experience with authentication and a structured question bank
 
 <sub>Whisper · Librosa · Sentence Transformers · React · Node.js</sub>
 
-<a href="https://speechtrust01-p64h8.vercel.app/">Live demo ↗</a> · <a href="https://github.com/speechtrust/speechtrust01">Source code</a>
+<br/>
+
+<a href="https://speechtrust01-p64h8.vercel.app/">↗ Live demo</a> · <a href="https://github.com/speechtrust/speechtrust01">Source code</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>04 · VestIQ</h3>
+<h3>04 / VestIQ</h3>
 
-**AI fashion styling and product discovery**
+<strong>AI fashion styling and product discovery</strong>
 
-Combines visual representations with a machine-learning outfit compatibility model.
+Combines visual representations with a machine-learning outfit compatibility model and product discovery.
 
-- **0.803 validation ROC-AUC**
-- **0.807 mean five-fold ROC-AUC**
+- <strong>0.803 validation ROC-AUC</strong>
+- <strong>0.807 mean five-fold ROC-AUC</strong> on the evaluated dataset
 
-<sub>FashionCLIP · FastAPI · Next.js · Supabase</sub>
+<sub>FashionCLIP · Python · FastAPI · Next.js · Supabase</sub>
 
-<a href="https://github.com/vest-iq/VestIQ">Source code ↗</a>
+<br/>
+
+<a href="https://github.com/vest-iq/VestIQ">↗ Explore repository</a>
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-<h3>05 · Arch AI</h3>
+<h3>05 / Arch AI</h3>
 
-**AI-assisted architectural floor-plan generation**
+<strong>AI-assisted architectural floor-plan generation</strong>
 
 A web application exploring AI-powered generation of architectural floor plans.
 
-<a href="https://arch-ai-eight.vercel.app/">Live demo ↗</a> · <a href="https://github.com/Aksh-bhatnagar/ArchAi">Source code</a>
+<sub>AI application · Web development</sub>
+
+<a href="https://arch-ai-eight.vercel.app/">↗ Live demo</a> · <a href="https://github.com/Aksh-bhatnagar/ArchAi">Source code</a>
 
 </td>
 </tr>
@@ -100,16 +126,44 @@ A web application exploring AI-powered generation of architectural floor plans.
 
 </div>
 
-## More Projects
+## ◈ More Experiments
 
-| Project | What it explores |
-|---|---|
-| [Multimodal Construction Intelligence ↗](https://github.com/Aksh-bhatnagar/multimodal-construction-intelligence) | Multimodal AI for construction safety, crack diagnostics, and site support |
-| [Wanderlust ↗](https://github.com/Aksh-bhatnagar/wanderlust) | Full-stack accommodation listings, authentication, and reviews |
-| [Machine Learning / Deep Learning ↗](https://github.com/Aksh-bhatnagar/Machine-Learning-Deep-Learning) | ML and deep-learning implementations and experiments |
-| [Mini Projects ↗](https://github.com/Aksh-bhatnagar/mini-projects) | Smaller web-development and JavaScript projects |
+<table>
+<tr>
+<td valign="top" width="50%">
 
-## Technical Skills
+<strong><a href="https://github.com/Aksh-bhatnagar/multimodal-construction-intelligence">Multimodal Construction Intelligence ↗</a></strong>
+
+Multimodal AI workflows for construction safety, crack diagnostics, and site support.
+
+</td>
+<td valign="top" width="50%">
+
+<strong><a href="https://github.com/Aksh-bhatnagar/wanderlust">Wanderlust ↗</a></strong>
+
+Full-stack accommodation listings, authentication, CRUD operations, and reviews.
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+<strong><a href="https://github.com/Aksh-bhatnagar/Machine-Learning-Deep-Learning">Machine Learning / Deep Learning ↗</a></strong>
+
+A learning and experimentation repository for ML and deep learning.
+
+</td>
+<td valign="top" width="50%">
+
+<strong><a href="https://github.com/Aksh-bhatnagar/mini-projects">Mini Projects ↗</a></strong>
+
+A collection of smaller web development and JavaScript projects.
+
+</td>
+</tr>
+</table>
+
+## ◈ Technology Stack
 
 <div align="center">
 
@@ -117,20 +171,36 @@ A web application exploring AI-powered generation of architectural floor plans.
 
 </div>
 
-- **AI / ML:** Machine Learning, NLP, Generative AI, LLMs, RAG, Speech AI, PyTorch
-- **Backend:** Python, FastAPI, Node.js, Express, REST APIs
-- **Frontend:** React, Next.js, JavaScript, TypeScript
-- **Data & foundations:** SQL, MongoDB, Supabase, DSA, OOP, DBMS, Git
+| Focus | Tools and concepts |
+|---|---|
+| **AI / ML** | Machine Learning, NLP, Generative AI, LLMs, RAG, Speech AI, PyTorch |
+| **Backend** | Python, FastAPI, Node.js, Express, REST APIs |
+| **Frontend** | React, Next.js, JavaScript, TypeScript |
+| **Data** | SQL, MongoDB, Supabase |
+| **Foundations** | DSA, OOP, DBMS, Git |
 
-## Current Focus
+## ◈ GitHub Activity
 
-LLM application reliability · Real-time voice interfaces · RAG evaluation · Backend engineering
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aksh-bhatnagar&show_icons=true&hide_border=true&bg_color=071A2C&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" alt="GitHub profile statistics" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Aksh-bhatnagar&theme=transparent&hide_border=true&background=071A2C&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aksh-bhatnagar&bg_color=071A2C&color=C9D1D9&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+
+</div>
+
+## ◈ Currently Exploring
+
+LLM application reliability · Real-time voice interfaces · RAG evaluation · Backend architecture
 
 ---
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aksh-bhatnagar/"><img src="https://img.shields.io/badge/CONTACT%20ME-LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="Contact me on LinkedIn" /></a>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="110" alt="Animated cat typing on a keyboard" />
+
+<a href="https://www.linkedin.com/in/aksh-bhatnagar/"><img src="https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 
 <sub>Building practical systems. Learning by shipping.</sub>
 
