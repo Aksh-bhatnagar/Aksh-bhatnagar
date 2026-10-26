@@ -1,121 +1,194 @@
 <div align="center">
 
-# Aksh Bhatnagar
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:071A2C,45:063B5A,100:00D9FF&text=AKSH%20BHATNAGAR&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=AI%20ENGINEERING%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20FULL-STACK&descAlignY=58&descSize=14&animation=fadeIn" width="100%" alt="Aksh Bhatnagar — AI Engineering, Software, Full-Stack" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=00D9FF&center=true&vCenter=true&width=600&lines=Generative+AI+Engineer;Software+Engineer;Full-Stack+Developer" alt="Generative AI Engineer | Software Engineer | Full-Stack Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1100&color=00D9FF&center=true&vCenter=true&width=650&lines=Generative+AI+Engineer;Software+Engineer;Full-Stack+Developer;Building+AI+that+solves+real+problems" alt="Generative AI Engineer | Software Engineer | Full-Stack Developer" />
 
 **CSE & Artificial Intelligence Undergraduate · Medicaps University, Indore**
 
-Building practical AI systems and full-stack software.
-
-[LinkedIn](https://www.linkedin.com/in/aksh-bhatnagar/) · [GitHub](https://github.com/Aksh-bhatnagar)
+[LinkedIn](https://www.linkedin.com/in/aksh-bhatnagar/) &nbsp;•&nbsp; [GitHub](https://github.com/Aksh-bhatnagar)
 
 </div>
 
 ---
 
-## About Me
+## ◈ What I Build
 
-I'm a Computer Science and Engineering student specializing in Artificial Intelligence. I build applications across **generative AI, speech AI, machine learning, backend engineering, and full-stack development**—from model integration and evaluation to usable web products.
+I work at the intersection of **AI systems and software engineering**: voice-first applications, LLM-powered workflows, machine-learning features, and full-stack products. I care about not just getting a model to work, but connecting it to a usable product and evaluating its behavior.
 
-- Building LLM-powered and real-time voice applications.
-- Developing backend services and APIs with Python and FastAPI.
-- Connecting AI/ML systems to practical product experiences.
-- Interested in AI/ML engineering and software engineering opportunities.
+<div align="center">
 
-## Featured Projects
+| ◉ GENERATIVE AI | ◉ SPEECH AI | ◉ SOFTWARE ENGINEERING |
+|:---:|:---:|:---:|
+| LLMs · RAG · Evaluation | STT · TTS · Voice UX | APIs · Full-stack · Integration |
 
-These projects represent my main focus across applied AI and software engineering.
+</div>
 
-### 01 · Golden Minutes
-**Multilingual voice AI for cyber-fraud reporting**
+## ◈ Featured Work
 
-A voice-first assistant designed to help people organize cyber-fraud incident details in English, Hindi, and Hinglish.
+<div align="center">
 
-- Collects structured incident details conversationally and generates PDF reports.
-- Integrates speech recognition, speech synthesis, and LLM-powered dialogue.
-- Includes interruption handling for a more natural voice experience.
-- Reached **96.7% field accuracy (58/60)** across six synthetic language scenarios.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Stack:** Python · FastAPI · Groq · Gnani STT/TTS · Async processing
+<h3>01 / Golden Minutes</h3>
 
-[Project overview](https://github.com/Aksh-bhatnagar/golden-minutes-readme-only) · *Source code is private*
+<strong>Voice AI for cyber-fraud reporting</strong>
 
-### 02 · Interruptible Voice Assistant
-**Real-time conversational voice system with barge-in**
+A multilingual assistant that collects incident details conversationally in English, Hindi, and Hinglish, then generates a structured PDF report.
 
-A voice assistant that lets users interrupt spoken responses, with cancellable processing and retrieval-augmented generation.
+- <strong>96.7% field accuracy</strong> — 58/60 fields across six synthetic scenarios
+- Speech-to-text, text-to-speech, LLM dialogue, and interruption handling
 
-- Uses voice activity detection and speech recognition to handle user interruptions.
-- Combines semantic retrieval with an LLM response pipeline.
-- Uses asynchronous cancellation to stop work when the user starts speaking.
+<sub>Python · FastAPI · Groq · Gnani STT/TTS</sub>
 
-**Stack:** Python · FastAPI · React · Silero VAD · Whisper · RAG
+<br/>
 
-[View source code](https://github.com/Aksh-bhatnagar/voice-interrupt-assistant)
+<a href="https://github.com/Aksh-bhatnagar/golden-minutes-readme-only">↗ Project overview</a> · <em>Source code private</em>
 
-### 03 · SpeechTrust
-**AI-assisted speech assessment and response evaluation**
+</td>
+<td width="50%" valign="top">
 
-A platform that analyzes spoken answers using audio features and semantic relevance, then presents a confidence-oriented score.
+<h3>02 / Interruptible Voice Assistant</h3>
 
-- Evaluates speech characteristics such as fluency, pace, pauses, pitch, and clarity.
-- Combines Whisper, Librosa, and Sentence Transformers.
-- Includes a full-stack application with authentication and a structured question bank.
+<strong>Real-time conversational AI with barge-in</strong>
 
-**Stack:** Python · Whisper · Librosa · Sentence Transformers · React · Node.js · MongoDB
+A voice assistant designed to let users interrupt spoken responses, with cancellable processing and retrieval-augmented generation.
 
-[Live demo](https://speechtrust01-p64h.vercel.app/) · [Source code](https://github.com/speechtrust/speechtrust01)
+- Voice activity detection and speech recognition
+- Semantic retrieval and asynchronous cancellation
 
-### 04 · VestIQ
-**AI-powered fashion styling and visual product discovery**
+<sub>Python · FastAPI · React · Silero VAD · Whisper · RAG</sub>
 
-A fashion application combining visual representations with a machine-learning outfit compatibility model.
+<br/>
 
-- Uses FashionCLIP-based visual features and a compatibility classifier.
-- Connects model inference and product discovery to a web application.
-- Reports **0.803 validation ROC-AUC** and **0.807 mean five-fold ROC-AUC** on the evaluated dataset.
+<a href="https://github.com/Aksh-bhatnagar/voice-interrupt-assistant">↗ Explore repository</a>
 
-**Stack:** Python · FastAPI · FashionCLIP · Next.js · Supabase · SerpApi
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-[View source code](https://github.com/vest-iq/VestIQ)
+<h3>03 / SpeechTrust</h3>
 
-### 05 · Arch AI
-**AI-powered architectural floor-plan generation**
+<strong>AI-assisted speech assessment</strong>
 
-A web application exploring AI-assisted generation of architectural floor plans.
+Analyzes spoken answers using acoustic features and semantic relevance to produce confidence-oriented feedback.
 
-**[Try the live demo](https://arch-ai-eight.vercel.app/) · [View source code](https://github.com/Aksh-bhatnagar/ArchAi)**
+- Speech characteristics including fluency, pace, pauses, pitch, and clarity
+- Full-stack experience with authentication and a structured question bank
 
-## More Projects
+<sub>Whisper · Librosa · Sentence Transformers · React · Node.js</sub>
 
-| Project | Overview |
+<br/>
+
+<a href="https://speechtrust01-p64h8.vercel.app/">↗ Live demo</a> · <a href="https://github.com/speechtrust/speechtrust01">Source code</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>04 / VestIQ</h3>
+
+<strong>AI fashion styling and product discovery</strong>
+
+Combines visual representations with a machine-learning outfit compatibility model and product discovery.
+
+- <strong>0.803 validation ROC-AUC</strong>
+- <strong>0.807 mean five-fold ROC-AUC</strong> on the evaluated dataset
+
+<sub>FashionCLIP · Python · FastAPI · Next.js · Supabase</sub>
+
+<br/>
+
+<a href="https://github.com/vest-iq/VestIQ">↗ Explore repository</a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<h3>05 / Arch AI</h3>
+
+<strong>AI-assisted architectural floor-plan generation</strong>
+
+A web application exploring AI-powered generation of architectural floor plans.
+
+<sub>AI application · Web development</sub>
+
+<a href="https://arch-ai-eight.vercel.app/">↗ Live demo</a> · <a href="https://github.com/Aksh-bhatnagar/ArchAi">Source code</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+## ◈ More Experiments
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<strong><a href="https://github.com/Aksh-bhatnagar/multimodal-construction-intelligence">Multimodal Construction Intelligence ↗</a></strong>
+
+Multimodal AI workflows for construction safety, crack diagnostics, and site support.
+
+</td>
+<td valign="top" width="50%">
+
+<strong><a href="https://github.com/Aksh-bhatnagar/wanderlust">Wanderlust ↗</a></strong>
+
+Full-stack accommodation listings, authentication, CRUD operations, and reviews.
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+<strong><a href="https://github.com/Aksh-bhatnagar/Machine-Learning-Deep-Learning">Machine Learning / Deep Learning ↗</a></strong>
+
+A learning and experimentation repository for ML and deep learning.
+
+</td>
+<td valign="top" width="50%">
+
+<strong><a href="https://github.com/Aksh-bhatnagar/mini-projects">Mini Projects ↗</a></strong>
+
+A collection of smaller web development and JavaScript projects.
+
+</td>
+</tr>
+</table>
+
+## ◈ Technology Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,nextjs,nodejs,express,mongodb,postgres,supabase,git,github&theme=dark" alt="Python, C++, Java, JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, PostgreSQL, Supabase, Git and GitHub" />
+
+</div>
+
+| Focus | Tools and concepts |
 |---|---|
-| [Multimodal Construction Intelligence](https://github.com/Aksh-bhatnagar/multimodal-construction-intelligence) | Multimodal AI workflows for construction safety, crack diagnostics, and site support. |
-| [Wanderlust](https://github.com/Aksh-bhatnagar/wanderlust) | Full-stack accommodation listings with authentication, CRUD operations, and reviews. |
-| [Machine Learning / Deep Learning](https://github.com/Aksh-bhatnagar/Machine-Learning-Deep-Learning) | Learning and experimentation repository for machine learning and deep learning. |
-| [Mini Projects](https://github.com/Aksh-bhatnagar/mini-projects) | A collection of smaller web development and JavaScript projects. |
+| **AI / ML** | Machine Learning, NLP, Generative AI, LLMs, RAG, Speech AI, PyTorch |
+| **Backend** | Python, FastAPI, Node.js, Express, REST APIs |
+| **Frontend** | React, Next.js, JavaScript, TypeScript |
+| **Data** | SQL, MongoDB, Supabase |
+| **Foundations** | DSA, OOP, DBMS, Git |
 
-## Technical Skills
+## ◈ Currently Exploring
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,nextjs,nodejs,express,fastapi,mongodb,postgres,supabase,git,github" alt="Technologies: Python, C++, Java, JavaScript, TypeScript, React, Next.js, Node.js, Express, FastAPI, MongoDB, PostgreSQL, Supabase, Git, GitHub" />
-</p>
+LLM application reliability · Real-time voice interfaces · RAG evaluation · Backend architecture
 
-- **AI / ML:** Machine Learning, NLP, Generative AI, LLMs, RAG, Speech AI, PyTorch
-- **Backend:** FastAPI, Node.js, Express.js, REST APIs
-- **Frontend:** React, Next.js
-- **Databases:** SQL, MongoDB, Supabase
-- **Core CS:** Data Structures and Algorithms, OOP, DBMS
+---
 
-## What I'm Exploring
+<div align="center">
 
-- Reliable LLM applications and retrieval-augmented generation.
-- Real-time voice AI, speech processing, and conversational interfaces.
-- Backend architecture, API design, and model evaluation.
+<a href="https://www.linkedin.com/in/aksh-bhatnagar/"><img src="https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 
-## Connect
+<sub>Building practical systems. Learning by shipping.</sub>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aksh-bhatnagar/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/Aksh-bhatnagar)
+</div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,55:063B5A,100:071A2C&height=90&section=footer" width="100%" alt="" />
