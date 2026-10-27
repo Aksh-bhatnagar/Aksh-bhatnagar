@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:071A2C,45:063B5A,100:00D9FF&text=AKSH%20BHATNAGAR&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=AI%20ENGINEERING%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20FULL-STACK&descAlignY=58&descSize=14&animation=fadeIn" width="100%" alt="Aksh Bhatnagar — AI Engineering, Software, Full-Stack" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1100&color=00D9FF&center=true&vCenter=true&width=650&lines=Generative+AI+Engineer;Software+Engineer;Full-Stack+Developer;Building+AI+that+solves+real+problems" alt="Generative AI Engineer | Software Engineer | Full-Stack Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=900&color=00D9FF&center=true&vCenter=true&width=720&lines=%F0%9F%A4%96+Generative+AI+Engineer;%F0%9F%8E%99%EF%B8%8F+Speech+AI+Builder;%F0%9F%92%BB+Software+Engineer;%E2%9A%A1+Full-Stack+Developer;%F0%9F%9A%80+Building+AI+that+solves+real+problems" alt="🤖 Generative AI Engineer | 🎙️ Speech AI Builder | 💻 Software Engineer | ⚡ Full-Stack Developer | 🚀 Building practical AI" />
 
 **CSE & Artificial Intelligence Undergraduate · Medicaps University, Indore**
 
