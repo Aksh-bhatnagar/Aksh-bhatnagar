@@ -85,7 +85,7 @@ Analyzes spoken answers using acoustic features and semantic relevance to produc
 
 <br/>
 
-<a href="https://speechtrust01-p64h8.vercel.app/">↗ Live demo</a> · <a href="https://github.com/speechtrust/speechtrust01">Source code</a>
+<a href="https://speechtrust01-p64h.vercel.app/">↗ Live demo</a> · <a href="https://github.com/speechtrust/speechtrust01">Source code</a>
 
 </td>
 <td width="50%" valign="top">
