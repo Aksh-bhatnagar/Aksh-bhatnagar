@@ -1,8 +1,8 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:071A2C,45:063B5A,100:00D9FF&text=AKSH%20BHATNAGAR&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=AI%20ENGINEERING%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20FULL-STACK&descAlignY=58&descSize=14&animation=fadeIn" width="100%" alt="Aksh Bhatnagar — AI Engineering, Software, Full-Stack" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=900&color=00D9FF&center=true&vCenter=true&width=720&lines=%F0%9F%A4%96+Generative+AI+Engineer;%F0%9F%8E%99%EF%B8%8F+Speech+AI+Builder;%F0%9F%92%BB+Software+Engineer;%E2%9A%A1+Full-Stack+Developer;%F0%9F%9A%80+Building+AI+that+solves+real+problems" alt="🤖 Generative AI Engineer | 🎙️ Speech AI Builder | 💻 Software Engineer | ⚡ Full-Stack Developer | 🚀 Building practical AI" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=900&color=00D9FF&center=true&vCenter=true&width=720&lines=%F0%9F%A4%96+Generative+AI+Engineer;%F0%9F%8E%99%EF%B8%8F+Speech+AI+Builder;%F0%9F%92%BB+Software+Engineer;%E2%9A%A1+Full-Stack+Developer;%F0%9F%9A%80+Building+AI+that+solves+real+problems" alt="Generative AI Engineer | Speech AI Builder | Software Engineer | Full-Stack Developer" />
 
 **CSE & Artificial Intelligence Undergraduate · Medicaps University, Indore**
 
@@ -119,6 +119,27 @@ A web application exploring AI-powered generation of architectural floor plans.
 <sub>AI application · Web development</sub>
 
 <a href="https://arch-ai-eight.vercel.app/">↗ Live demo</a> · <a href="https://github.com/Aksh-bhatnagar/ArchAi">Source code</a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<h3>06 / NoteHandle</h3>
+
+<strong>AI-powered study management platform</strong>
+
+A full-stack AI study companion that helps students organize notes, understand concepts, generate mind maps, and create personalized study schedules.
+
+- AI-powered note summarization and conversational doubt solving
+- Automated mind maps and personalized study planning
+- Progress tracking with daily checklists and study goals
+
+<sub>React.js · Node.js · Express.js · MongoDB · Gemini API · JWT · Cloudinary</sub>
+
+<br/>
+
+<a href="https://github.com/notehandle/note-Handle">↗ Explore repository</a> · <a href="https://note-handle.vercel.app">Live application</a>
 
 </td>
 </tr>
