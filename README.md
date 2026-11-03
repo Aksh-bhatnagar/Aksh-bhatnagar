@@ -47,7 +47,7 @@ A multilingual assistant that collects incident details conversationally in Engl
 
 <br/>
 
-<a href="https://github.com/Aksh-bhatnagar/golden-minutes-readme-only">↗ Project overview</a> · <em>Source code private</em>
+<a href="https://github.com/Aksh-bhatnagar/golden-minutes">↗ Explore repository</a>
 
 </td>
 <td width="50%" valign="top">
